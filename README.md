@@ -1,6 +1,4 @@
-# ESP8266-bilibilifans
-安装arduino
-首选项更改
-开发板管理
-库管理
-检查，上传
+＃ESP8266-bilibilifans  
+Arduino IDE:1.8.10  
+esp8266:2.6.3  
+使用OLED显示屏和ESP8266 NodeMCU制作bilibil用户信息
